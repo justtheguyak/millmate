@@ -9,7 +9,7 @@ We bring the local flour mill experience to your phone. You choose the grain, yo
 ## 📲 Download & Install
 
 **[Download Latest Version (APK)](https://github.com/justtheguyak/millmate/raw/main/millmate.apk)**
-*Current Version: v1.1.0*
+*Current Version: v1.0.7*
 
 ### ⚙️ How to Install on Android
 1.  **Download:** Click the link above to download the `millmate.apk` file.
