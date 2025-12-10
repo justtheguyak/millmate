@@ -44,7 +44,7 @@ Don't settle for packet flour. Tell us exactly how you want it:
 ## 📸 App Screenshots
 
 | Home Screen | Custom Grinding | Live Tracking | Dark Mode |
-|:---:|:---:|:---:|:---:|
+|Coming Soon|:---:|:---:|:---:|
 | *(Image Placeholder)* | *(Image Placeholder)* | *(Image Placeholder)* | *(Image Placeholder)* |
 
 ---
@@ -57,13 +57,6 @@ A: MillMate has a built-in update system. When a new version is released, the ap
 **Q: Is my data safe?**
 A: Yes! All your data (orders, profile, cards) is stored locally on your secure device storage.
 
----
-
-## 📞 Contact Support
-
-Need help with an order?
-* **Email:** support@millmate.com
-* **Phone:** +91 98765 43210
 
 ---
 *Copyright © 2024 MillMate. All rights reserved.*
