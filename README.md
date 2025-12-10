@@ -41,14 +41,6 @@ Don't settle for packet flour. Tell us exactly how you want it:
 
 ---
 
-## 📸 App Screenshots
-
-| Home Screen | Custom Grinding | Live Tracking | Dark Mode |
-|Coming Soon|:---:|:---:|:---:|
-| *(Image Placeholder)* | *(Image Placeholder)* | *(Image Placeholder)* | *(Image Placeholder)* |
-
----
-
 ## ❓ FAQ
 
 **Q: How do I update the app?**
