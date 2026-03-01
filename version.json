@@ -1,11 +1,10 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "build_number": 1,
   "url": "https://github.com/justtheguyak/millmate/raw/main/millmate.apk",
   "features": [
-    "Major Security: Firebase Email Authentication",
-    "Cloud Power: Firestore Order Syncing",
-    "Support: Direct Email Assistance for refunds",
-    "Auto-Updates: No more manual links in the future"
+    "TEST UPDATE: Verifying In-App Update Logic",
+    "Firebase Auth is Live",
+    "Cloud Firestore Syncing is Live"
   ]
 }
