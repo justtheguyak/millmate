@@ -1,10 +1,11 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "build_number": 1,
   "url": "https://github.com/justtheguyak/millmate/raw/main/millmate.apk",
   "features": [
-    "TEST UPDATE: Verifying In-App Update Logic",
-    "Firebase Auth is Live",
-    "Cloud Firestore Syncing is Live"
+    "Major: Firebase Authentication & Cloud Sync",
+    "Feature: Professional Help & Support System",
+    "Fix: System-wide Dark Mode fully restored",
+    "Performance: High-speed cache-busting updates"
   ]
 }
