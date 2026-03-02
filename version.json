@@ -1,11 +1,5 @@
 {
   "version": "1.6.9",
-  "build_number": 1,
-  "url": "https://github.com/justtheguyak/millmate/raw/main/millmate.apk",
-  "features": [
-    "Major: Firebase Authentication & Cloud Sync",
-    "Feature: Professional Help & Support System",
-    "Fix: System-wide Dark Mode fully restored",
-    "Performance: High-speed cache-busting updates"
-  ]
+  "build_number": 20260302,
+  "url": "https://github.com/justtheguyak/millmate/raw/main/millmate.apk"
 }
