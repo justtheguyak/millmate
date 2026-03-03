@@ -1,6 +1,9 @@
 {
-  "version": "1.7.1",
-  "build_number": 2,
-  "apk_url": "https://raw.githubusercontent.com/yourusername/millmate/main/millmate_v1.7.0.apk",
-  "force_update": false
+  "version": "1.7.2",
+  "url": "https://raw.githubusercontent.com/justtheguyak/millmate/main/millmate_v1.7.2.apk",
+  "features": [
+    "Fixed cart button issue",
+    "Fixed icon rendering bug",
+    "Improved update stability"
+  ]
 }
