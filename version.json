@@ -1,5 +1,6 @@
 {
-  "version": "1.6.9",
-  "build_number": 20260301,
-  "url": "https://github.com/justtheguyak/millmate/raw/main/millmate.apk"
+  "version": "1.7.0",
+  "build_number": 2,
+  "apk_url": "https://raw.githubusercontent.com/yourusername/millmate/main/millmate_v1.7.0.apk",
+  "force_update": false
 }
