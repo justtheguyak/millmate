@@ -1,9 +1,9 @@
 {
-  "version": "1.7.2",
-  "url": "https://raw.githubusercontent.com/justtheguyak/millmate/main/millmate_v1.7.2.apk",
+  "version": "1.8.0",
+  "url": "https://raw.githubusercontent.com/justtheguyak/millmate/main/millmate_v1.8.0.apk",
   "features": [
-    "Fixed cart button issue",
-    "Fixed icon rendering bug",
-    "Improved update stability"
+    "Migrated to secure release signing",
+    "Improved OTA stability",
+    "Performance improvements"
   ]
 }
